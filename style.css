@@ -1,0 +1,138 @@
+body
+{
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    margin: auto;
+}
+
+#container
+{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 900px;
+    margin: 20px;
+}
+
+.square
+{
+    width: 50%;
+    float: left;
+
+}
+
+#logo
+{
+    float: left;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 40px;
+    width: 600px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+#zegar
+{
+    float: left;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 40px;
+    width: 60px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-align: right;
+}
+
+.tile1
+{
+    margin: 10px;
+    width: 480px;
+    height: 150px;
+    background-color: #7FFFD4;
+    text-align: center;
+    color: #111111;
+
+}
+.tile1:hover
+{
+    background-color: #7B68EE;
+}
+
+.tile2
+{
+    margin: 10px;
+    width: 480px;
+    height: 150px;
+    background-color: #B0E0E6;
+    float: left;
+    text-align: center;
+    color: #111111;
+}
+
+.tile2:hover
+{
+    background-color: #7B68EE;
+}
+
+.tile3
+{
+    margin: 10px;
+    width: 480px;
+    height: 140px;
+    background-color: #32CD32;
+    text-align: center;
+    color: #111111;
+}
+
+.tile3:hover
+{
+    background-color: #7B68EE;
+}
+
+.tile_content
+{
+    margin: 10px;
+    width: 450px;
+    height: 370px;
+    background-color: #111111;
+    padding: 15px;
+}
+
+.YT
+{
+    margin: 10px;
+    width: 146px;
+    height: 60px;
+    background-color: #FF0000;
+    float: left;
+}
+
+.TW
+{
+    margin: 10px;
+    width: 146px;
+    height: 60px;
+    background-color: #00FFFF;
+    float: left;
+}
+
+.GMAIL
+{
+    margin: 10px;
+    width: 146px;
+    height: 60px;
+    background-color: #808000;
+    float: left;
+}
+
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+}
